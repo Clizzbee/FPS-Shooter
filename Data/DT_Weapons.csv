@@ -1,0 +1,4 @@
+WeaponID,DisplayName,WeaponType,Damage,FireRate,MagazineSize,MaxRange,BulletSpread
+WPN_Pistol,Pistol,Hitscan,25,0.25,12,2000,1.5
+WPN_Rifle,AssaultRifle,Hitscan,22,0.09,30,3000,2.2
+WPN_Shotgun,Shotgun,Projectile,8,1.0,8,800,6.0

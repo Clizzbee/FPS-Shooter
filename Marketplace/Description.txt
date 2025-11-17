@@ -1,0 +1,9 @@
+FPS Starter Kit Pro — C++ + Blueprint Hybrid
+A modular, production-oriented FPS starter kit designed for rapid prototyping and marketplace reuse.
+
+Features:
+- C++ foundation with easy Blueprint extension points
+- Data-driven weapon system (DataTable)
+- Health & Inventory systems
+- AI base class ready for Behavior Trees and Perception
+- Documentation and packaging checklist for Marketplace submission
